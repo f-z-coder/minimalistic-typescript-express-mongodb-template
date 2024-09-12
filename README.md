@@ -25,7 +25,7 @@ This template aims to simplify the process, providing a minimalistic and easy-to
 Run the following command to clone the template without git history:
 
 ```bash
-npx degit F-z-Coder/minimalistic-typescript-express-mongodb-template your-name-project
+npx degit f-z-coder/minimalistic-typescript-express-mongodb-template your-name-project
 ```
 
 ### Step 2: Open in Editor and Add Environment Variables
